@@ -1,5 +1,9 @@
 # 🌟 Defense System 🌟
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![Screenshot (151)](https://github.com/user-attachments/assets/c29250ba-2cb9-47fb-8692-e26be84f22cd)
+
+
 Welcome to the Defense System project repository! This project is a Java-based simulation that manages and monitors various defense units, such as Helicopters, Tanks, and Submarines. It showcases key Object-Oriented Programming (OOP) concepts, including encapsulation, inheritance, polymorphism, and abstraction.
 
 Project Overview
