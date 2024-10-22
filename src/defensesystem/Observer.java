@@ -15,10 +15,4 @@ public interface Observer {
     void updateAreaClear(int value);
     void updateJsliderValue(int value);
     void updateJsliderFuelValue(int value,String name);
-    void updateJsliderFuelValue(int value,String name);
-    void updateJsliderFuelValue(int value,String name);
-    void updateJsliderFuelValue(int value,String car);
-
-}
-}
 }
